@@ -5,3 +5,5 @@ Added another new file!!!!
 
 Adding another line, without taking pull, in the same line Dummy added and commited the code.
 To demonstrate merge conflict
+
+Added another line by dummy user!!!
